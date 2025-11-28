@@ -1,0 +1,11 @@
+header {
+    position: absolute;
+    background-color: antiquewhite;
+
+}
+
+h2 {
+    position: fixed;
+    left: 60%;
+    bottom: 90%;
+}

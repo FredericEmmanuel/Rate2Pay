@@ -1,0 +1,19 @@
+.login {
+    border: 10px solid white;
+    width: 40%;
+    height: 100%;
+    top: 50%;
+    left: 80%;
+    translate: -50% -50%;
+    color: whitesmoke;
+    text-align: center;
+    background-color: gray;
+    font-size: 30px;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    position: fixed;
+} 
+
+body {
+    background-color: darkgoldenrod;
+    
+}
